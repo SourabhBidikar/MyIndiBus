@@ -1,3 +1,4 @@
+Project Start Date- 13-Jul-2024
 Front end -> Vue framework with Typescript
 Backend -> Spring framework with Java 21
 Database -> Postgres

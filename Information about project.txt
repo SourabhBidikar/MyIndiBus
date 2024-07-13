@@ -1,2 +1,0 @@
-Front-end: TS, Vue
-Backend: Java, Spring boot.

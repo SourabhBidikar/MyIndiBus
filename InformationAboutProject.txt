@@ -1,0 +1,7 @@
+Front end -> Vue framework with Typescript
+Backend -> Spring framework with Java 21
+Database -> Postgres
+Version control -> GitHub
+Cloud platform -> AWS
+Ticket management -> JIRA
+Team calls -> Skype
